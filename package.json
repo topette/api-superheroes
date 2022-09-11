@@ -1,0 +1,15 @@
+{
+  "name": "api-superheroes",
+  "version": "1.0.0",
+  "descripcion": "Superheroes API",
+"main": "server.js",
+"author": "Oscar Leonardo Osorio",
+
+"scripts": {
+  "start": "node server.js"
+},
+
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
